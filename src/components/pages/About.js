@@ -3,15 +3,8 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      
+    <img src= "https://images.squarespace-cdn.com/content/v1/5a879220ccc5c51cc1773086/1588779833131-1P7QTHHWFSWO0XLBT85K/ke17ZwdGBToddI8pDm48kPJ6V8LYmqs_2HHkc0Ep4HRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIn74pbp6umyXGaY1dJ95oZ7ldtRJ7CDzW77vdidlIayoKMshLAGzx4R3EDFOm1kBS/03EE3A6D-6278-4CB6-AAF9-9603C5B8DA72.JPG?format=500w" class="img-fluid" alt="portrait of Celia with green background"></img>
     </div>
   );
 }
