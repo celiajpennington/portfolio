@@ -16,7 +16,7 @@ export default function Portfolio() {
 
 
 
-        <img src="https://i.imgur.com/yLoMqef.png" alt="travel website"></img> 
+        <img src="https://i.imgur.com/yLoMqef.png" alt="travel website"></img> npm i 
         <h3>Top Tourist</h3>
 
 

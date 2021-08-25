@@ -1,12 +1,27 @@
 import React from 'react';
+import { Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
 
-export default function Contact() {
+const Contact = (props) => {
   return (
-    <div>
-      <h1>Contact </h1>
-      <p>
-        
-      </p>
-    </div>
+    <Form>
+      <FormGroup>
+        <Label for="exampleEmail">Email</Label>
+        <Input type="email" name="email" id="exampleEmail" placeholder="with a placeholder" />
+      </FormGroup>
+      
+      
+     
+      <FormGroup>
+        <Label for="exampleText">Text Area</Label>
+        <Input type="textarea" name="text" id="exampleText" />
+      </FormGroup>
+      
+      
+     
+       
+      <Button>Submit</Button>
+    </Form>
   );
 }
+
+export default Contact;
