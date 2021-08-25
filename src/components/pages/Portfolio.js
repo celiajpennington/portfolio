@@ -4,7 +4,7 @@ import "../../style/Portfolio.css"
 
 export default function Portfolio() {
   return (
-    <div>
+    <div className="portfolio-div">
       <h1>My Work</h1>
 
 
@@ -21,7 +21,7 @@ export default function Portfolio() {
 
 
 
-              <img src="#" alt="solid colored sneakers with white soles against a white backdrop"></img>
+              <img src="https://i.imgur.com/UDdW4Sb.png" alt="workout tracker app"></img>
 
 
     </div>

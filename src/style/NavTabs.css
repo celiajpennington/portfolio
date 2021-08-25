@@ -1,3 +1,10 @@
 .nav-tabs {
     background-color:#f4fcf8;
+    text-decoration-color: black;
+    border-radius: 30px;
+    padding: 15px;
+    border: thin white solid;
+}
+.nav-tabs a:hover {
+    color: #D99E89;  
 }
