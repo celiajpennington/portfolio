@@ -1,0 +1,19 @@
+.about-page{
+        padding-top: 15px;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace; 
+        background-color: #f4fcf8;
+   }
+.about-title{
+        font-size: 100px;      
+}
+.about-img {
+        border-radius: 0 0 50 50;
+}
+
+
+@media only screen and (max-width: 900px) {
+        header {
+          min-width: 100%;
+        }
+      }
