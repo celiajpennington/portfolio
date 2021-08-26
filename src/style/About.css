@@ -17,6 +17,7 @@
 }
 .description {
         font-size: 150%;
+        margin-bottom: 300px;
 }
 
 @media only screen and (max-width: 600px) {

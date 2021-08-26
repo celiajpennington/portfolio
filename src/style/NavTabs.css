@@ -1,6 +1,8 @@
+a.nav-link {
+  color: black;
+}
 .nav-tabs {
     background-color:#f4fcf8;
-    text-decoration-color: black;
     border-radius: 30px;
     padding: 15px;
     border: thin white solid;

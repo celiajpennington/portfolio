@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from './Footer';
 import "../../style/About.css"
 
 export default function About() {
@@ -12,6 +13,9 @@ export default function About() {
         management, customer service and human resources experience combined with my newly (and
         continuously) evolving web design skills give me a competitive edge in the web development industry.
         I enjoy a challenge, and possess the problem solving skills needed to decode it.</p>
+        <hr />
+        <Footer></Footer>
     </div>
+    
   );
 }

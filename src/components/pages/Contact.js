@@ -23,6 +23,7 @@ const Contact = (props) => {
        <FormGroup>
       <Button className="btn-custom">Submit</Button>
       </FormGroup>
+      <hr />
       <Footer></Footer>
      
     </Form>

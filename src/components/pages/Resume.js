@@ -29,6 +29,7 @@ export default function Resume() {
       <p>Utilized B2B software to maintain and shop up to date products for my clients.
       </p>
       <p>Performed new client acquisitions matching products with client needs.</p>
+      <hr />
       <Footer></Footer>
     </div>
   );
