@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Footer from './Footer';
 import { Button, Form, FormGroup, Label, Input, } from 'reactstrap';
 import "../../style/Contact.css";
 
@@ -23,7 +23,7 @@ const Contact = (props) => {
        <FormGroup>
       <Button className="btn-custom">Submit</Button>
       </FormGroup>
-
+      <Footer></Footer>
      
     </Form>
     

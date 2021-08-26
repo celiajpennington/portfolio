@@ -5,6 +5,12 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 100px; 
 }
+.portfolio-title {
+text-align: center;
+color: #333333;  
+font-size: 100px;
+
+}
 .sous-chef{
     display: block;
     margin-left: auto;
@@ -12,13 +18,16 @@
     width: 50%;
     margin-top: 15px;
     margin-bottom: 15px;
-    border: thin black inset;
+  
 }
 img{
     max-width:50%;
     height:auto;
     margin: 15px;
-    border: thin black inset;
+    border-color: #768849;
+    border-style: outset;
+    border-radius: 10px;
+    
 }
     
        
