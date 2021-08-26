@@ -1,6 +1,6 @@
 import React from 'react';
 import "../../style/Portfolio.css";
-import sousChefImg from "../../style/img/Profile-Sous-Chef.png";
+{/*import sousChefImg from "../../style/img/Profile-Sous-Chef.png";*/}
 
 
 export default function Portfolio() {
@@ -9,14 +9,14 @@ export default function Portfolio() {
       <h1>My Work</h1>
 
 
-      {/* <img  className ="sous-chef"src="https://i.imgur.com/HVGngPv.png" alt="recipe website"></img> */}
-      <img className= "sous-chef" src={sousChefImg} alt ="cooking website"/>
+       <img  className ="sous-chef"src="https://i.imgur.com/HVGngPv.png" alt="recipe website"></img> 
+      {/*<img className= "sous-chef" src={sousChefImg} alt ="cooking website"/>*/}
       <h3>Sous-Chef</h3>
 
 
 
 
-        <img src="https://i.imgur.com/yLoMqef.png" alt="travel website"></img> npm i 
+        <img src="https://i.imgur.com/yLoMqef.png" alt="travel website"></img> 
         <h3>Top Tourist</h3>
 
 
