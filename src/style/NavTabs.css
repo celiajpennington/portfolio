@@ -8,3 +8,10 @@
 .nav-tabs a:hover {
     color: #D99E89;  
 }
+
+@media screen and (max-width: 600px) {
+    .nav-tabs a {
+      float: none;
+      width: 100%;
+    }
+  }
