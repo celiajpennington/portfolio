@@ -6,7 +6,7 @@
     color: #808080;
     display: block;
     }
-    .footer p {
+    .NavLink {
         display: table-cell;
     vertical-align: middle;
     float:left;
@@ -15,3 +15,10 @@
     color: #0D0D0D;
     
     }
+    @media screen and (max-width: 600px) {
+        .NavLink {
+          float: none;
+          width: 100%;
+        }
+      }
+    
